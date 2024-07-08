@@ -1,5 +1,5 @@
 # HealthChatbot : Hospital Assistance Chatbot
-Welcome to our project! This repository hosts a chatbot application developed using Python’s Tkinter library for the graphical interface and SQLite3 for efficient database management. Our chatbot is designed to enhance user interactions through dynamic and personalized conversations.
+Welcome to our project! This repository hosts  chatbot application developed using Python’s Tkinter library for the graphical interface and SQLite3 for efficient database management. Our chatbot is designed to enhance user interactions through dynamic and personalized conversations.
 
 ## Features
 
