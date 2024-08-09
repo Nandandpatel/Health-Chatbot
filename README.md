@@ -4,6 +4,7 @@ Welcome to our project! This repository hosts  chatbot application developed usi
 ## Features
 
 - Developed a user-friendly graphical interface using Python’s Tkinter library
+- Implemented conditional logic for dynamic user conversations.
 - Integrated SQLite3 for efficient database management
 - Implemented conditional logic for dynamic user conversations.
 - Achieved an 50 % increase in user interaction through the chatbot.
